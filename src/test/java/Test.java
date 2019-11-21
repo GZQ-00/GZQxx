@@ -67,6 +67,7 @@ public class Test {
         stu3.setId(2);
         stu3.setName("小蓝");
         session.saveOrUpdate(stu3);
+        System.out.println("sdsdsd");
     }
 
 }
